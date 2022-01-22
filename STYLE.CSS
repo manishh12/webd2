@@ -1,0 +1,31 @@
+
+div{text-align: center;}
+.main{
+    width: auto;
+    border: 50px solid transparent;
+    
+    border-image: url(BGW.jPG);
+    border-image-slice: 40; 
+     padding: 50px;
+    border-radius: .45rem;
+  
+}
+img{
+    border: 5px double rgb(16, 116, 197);
+    
+    width: 250px;
+    height: 250px;
+    background-color: rgb(22, 148, 170);
+    padding: 2px;
+    border-radius: 50%;
+    line-height: 50px;
+    text-align: center;
+}
+ul { display: inline-block; 
+    text-align: center; 
+}
+
+
+
+
+   
